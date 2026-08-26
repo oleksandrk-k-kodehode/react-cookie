@@ -18,7 +18,7 @@ export default function Cookie() {
                         width: "inherit",
                         height: "inherit",
                     }}
-                    src="public/cookie.png"
+                    src="/react-cookie/cookie.png"
                     alt="cookie"
                 />
             </div>
