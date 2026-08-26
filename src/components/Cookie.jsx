@@ -18,7 +18,7 @@ export default function Cookie() {
                         width: "inherit",
                         height: "inherit",
                     }}
-                    src="src\assets\cookie.png"
+                    src="public/cookie.png"
                     alt="cookie"
                 />
             </div>
